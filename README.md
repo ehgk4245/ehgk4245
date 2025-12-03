@@ -21,6 +21,8 @@ AI를 활용하여 편의성을 더한 P2P 물품 대여 중개 플랫폼
 - 필요한 물품이 포함된 게시글을 추천해 줄 수 있는 스마트 검색 기능
 - 게시글의 최근 후기들을 요약하여 보여주는 기능
 
+<br/>
+
 ## Tech Stack
 <div style="margin-top: 12px;">
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d5bb472e-6404-4b99-9128-209eb101d955" />
