@@ -26,9 +26,9 @@ AI를 활용하여 편의성을 더한 P2P 물품 대여 중개 플랫폼
 
 ## Tech Stack
 <div style="margin-top: 12px;">
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d5bb472e-6404-4b99-9128-209eb101d955" />
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/24bef532-9705-4841-9053-8757c31c96b2" />
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/1ca863e8-64f5-494b-b476-debafb848a4d" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d49e6b67-69a8-4c00-a75a-7cc94352b2a4" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/9a0ce5e9-97aa-4d07-8805-9dd250a14dfc" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/1e047ce9-0764-4778-8e32-d4f3bb10e904" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/fa2b1d66-2e92-46b9-8bc5-604410b10c99" />
 
 </div>
