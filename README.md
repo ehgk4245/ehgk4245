@@ -29,7 +29,6 @@ AI를 활용하여 편의성을 더한 P2P 물품 대여 중개 플랫폼
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/d5bb472e-6404-4b99-9128-209eb101d955" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/24bef532-9705-4841-9053-8757c31c96b2" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/1ca863e8-64f5-494b-b476-debafb848a4d" />
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/53dc54b1-380a-49b7-937f-8344d4c6b3f8" />
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/fa2b1d66-2e92-46b9-8bc5-604410b10c99" />
 
 </div>
