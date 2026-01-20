@@ -1,9 +1,10 @@
 # Doha's GitHub
-특정 기술에 머무르기보다 다양한 분야를 넘나들며 배경지식의 확장을 추구합니다. <br/>
-폭넓은 이해를 바탕으로 기술 선택부터 아키텍처까지 ‘왜 이 방식이어야 하는가’를 설명할 수 있는 근거 있는 개발을 추구합니다.
+단순히 기능 구현에 그치지 않고, 확장성과 유지보수를 생각하며 개발을 하고자 합니다. <br/>
+현재는 코드레벨에서 이를 고려하는 수준이지만 <br/>
+경험과 지식을 쌓아 시스템 전반의 아키텍처를 설계할 수 있는 개발자가 되고싶습니다.
 <br/><br/>
-*I expand my knowledge across domains rather than staying within a single technology.* <br/>
-*With a broader perspective, I pursue rationale-driven development—always grounding every choice, from tech selection to architecture, in a clear and defensible “why.”*
+*I aim to develop not just by implementing features, but by considering scalability and maintainability.* <br/>
+*Currently, I focus on these aspects at the code level, but my goal is to gain experience and knowledge to become a developer who can design system-wide architecture.*
 
 📩 Contact me: dohakim.dev@gmail.com
 
