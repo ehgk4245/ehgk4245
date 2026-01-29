@@ -15,7 +15,7 @@
 #### AI 활용 P2P 물품 대여 중개 플랫폼, ***chwimeet***
 <a href="https://github.com/prgrms-aibe-devcourse/AIBE3_FinalProject_Team1_FE">FE Repository</a> |
 <a href="https://github.com/prgrms-aibe-devcourse/AIBE3_FinalProject_Team1_BE">BE Repository</a> |
-<a href="https://www.chwimeet.store/">Web site</a>
+<a href="https://www.chwimeet.site/">Web site</a>
 > ##### 팀 프로젝트 (기획 1주 + 핵심 개발 3주) 
 AI를 활용하여 편의성을 더한 P2P 물품 대여 중개 플랫폼
 - 이미지 기반 게시글 내용 자동 생성 기능
