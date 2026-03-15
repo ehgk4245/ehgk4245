@@ -12,7 +12,7 @@
 
 ## Featured Projects
 
-#### 1. 개인화된 머신러닝 모델 기반 거북목 자세교정 시스템, ***kkobuk***
+#### 1. 개인화된 머신러닝 모델 기반 거북목 자세교정 시스템, ***꼬북***
 <a href="https://github.com/ehgk4245/Kkobuk">Repository</a> |
 <a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4-setup.exe">Window OS download</a> |
 <a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4.dmg">Mac OS download</a>
