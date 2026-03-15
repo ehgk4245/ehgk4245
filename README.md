@@ -16,7 +16,7 @@
 <a href="https://github.com/ehgk4245/Kkobuk">Repository</a> |
 <a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4-setup.exe">Window OS download</a> |
 <a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4.dmg">Mac OS download</a>
-> ##### 개인 프로젝트 (기획 + 핵심 개발 2주)
+> ##### 개인 프로젝트 (기획 + 핵심 개발 3주)
 사용자의 신체 특성을 학습하여 실시간으로 바른 자세를 가이드하는 자세 교정 솔루션 앱
 - 웹캠 영상을 분석하여 실시간으로 자세를 판별하고 알려주는 기능
 - 사용자 개인 자세 데이터를 기반으로 맞춤형 모델을 학습하는 기능
