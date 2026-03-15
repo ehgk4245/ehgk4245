@@ -1,10 +1,10 @@
 # Doha's GitHub
-단순히 기능 구현에 그치지 않고, 확장성과 유지보수를 생각하며 개발을 하고자 합니다. <br/>
-현재는 코드레벨에서 이를 고려하는 수준이지만 <br/>
-경험과 지식을 쌓아 시스템 전반의 아키텍처를 설계할 수 있는 개발자가 되고싶습니다.
+단기적인 해결에 그치기보다, 시간이 지나도 유지될 수 있는 선택인지부터 고민합니다.<br>
+문제를 개별 기능이 아닌 전체 흐름 속에서 바라보며, 한 번의 결정이 구조 전반에 남길 영향을 중요하게 생각합니다.<br>
+이러한 태도를 바탕으로, 시간이 지나도 신뢰받을 수 있는 아키첵터를 설계하는 개발자가 되고자 합니다.
 <br/><br/>
-*I aim to develop not just by implementing features, but by considering scalability and maintainability.* <br/>
-*Currently, I focus on these aspects at the code level, but my goal is to gain experience and knowledge to become a developer who can design system-wide architecture.*
+*I focus on sustainable solutions over short-term fixes, considering how each decision impacts the entire system flow.* <br/>
+*My goal is to become an architect who designs reliable, long-term systems by prioritizing structural integrity and scalability.*
 
 📩 Contact me: dohakim.dev@gmail.com
 
@@ -12,7 +12,20 @@
 
 ## Featured Projects
 
-#### AI 활용 P2P 물품 대여 중개 플랫폼, ***chwimeet***
+#### 1. 개인화된 머신러닝 모델 기반 거북목 자세교정 시스템, ***kkobuk***
+<a href="https://github.com/ehgk4245/Kkobuk">Repository</a> |
+<a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4-setup.exe">Window OS download</a> |
+<a href="https://github.com/ehgk4245/Kkobuk/releases/download/v1.0.4/kkobuk-1.0.4.dmg">Mac OS download</a>
+> ##### 개인 프로젝트 (기획 + 핵심 개발 2주)
+사용자의 신체 특성을 학습하여 실시간으로 바른 자세를 가이드하는 자세 교정 솔루션 앱
+- 웹캠 영상을 분석하여 실시간으로 자세를 판별하고 알려주는 기능
+- 사용자 개인 자세 데이터를 기반으로 맞춤형 모델을 학습하는 기능
+- 자세 측정 기록을 시각화하여 통계로 확인하는 기능
+- 수평 확장 가능한 AI 추론 서버 구조
+
+<br><br>
+
+#### 2. AI 활용 P2P 물품 대여 중개 플랫폼, ***chwimeet***
 <a href="https://github.com/prgrms-aibe-devcourse/AIBE3_FinalProject_Team1_FE">FE Repository</a> |
 <a href="https://github.com/prgrms-aibe-devcourse/AIBE3_FinalProject_Team1_BE">BE Repository</a> |
 <a href="https://www.chwimeet.site/">Web site</a>
